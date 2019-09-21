@@ -41,11 +41,10 @@ public class Conta {
 	@Override
 	public String toString()
     {
-        return "Conta: "
-                + NumberAccount
-                + ", Titular: "
-                + NameHolder
-                + ", Saldo: $ "
-                + String.format("%.2f", BalanceAccount);
+		String dadosParaImpressao  = "Conta: " 		+ NumberAccount;
+			   dadosParaImpressao += ", Titular: "  + NameHolder;
+			   dadosParaImpressao += ", Saldo: " 	+ String.format("%.2f", BalanceAccount);
+        
+		return dadosParaImpressao;        
     }
 }
