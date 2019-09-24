@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/m.matos.cavalcanti/OneDrive - Avanade/Projetos/udemy/java/workspace/Libraries/lib/smtp.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

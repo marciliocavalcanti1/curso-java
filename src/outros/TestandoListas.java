@@ -1,4 +1,4 @@
-package outrosProjetos;
+package outros;
 
 import java.util.ArrayList;
 import java.util.Collections;

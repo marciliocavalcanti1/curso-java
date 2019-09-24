@@ -1,4 +1,4 @@
-package outrosProjetos;
+package outros;
 
 import java.util.Locale;
 import java.util.Scanner;

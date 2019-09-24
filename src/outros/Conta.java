@@ -1,4 +1,4 @@
-package outrosProjetos;
+package outros;
 
 public class Conta {
 
